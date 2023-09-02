@@ -7,8 +7,7 @@
 
 | a flamingo rollerskating | a stork rollerskating | 
 |-----------------------|------------------------------------------------|
-| ![image](https://github.com/yihui-he/dds/assets/10027339/b2bc6066-24aa-474f-88ff-b11e878a9703) | ![image](https://github.com/yihui-he/dds/assets/10027339/85330852-9223-4af5-82c7-5a4303b357e3)
- |
+| ![image](https://github.com/yihui-he/dds/assets/10027339/b2bc6066-24aa-474f-88ff-b11e878a9703) | ![image](https://github.com/yihui-he/dds/assets/10027339/85330852-9223-4af5-82c7-5a4303b357e3) |
 
 | a flamingo rollerskating | a giraffe rollerskating | 
 |-----------------------|------------------------------------------------|
